@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-_Bu adreste bulunan ve **"kheiron"**, **"kheiron133"** adı altında paylaşılmış hiçbir yapının sizlere getireceği zararlardan, yaratacağı problemlerden sorumlu değilim, hiçbir sorumluluk **kabul etmiyorum**. Projelerimi kendi **özgür iradenizle** indirdiğiniz andan itibaren tüm sorumluluk size aittir._
+_Bu adreste bulunan ve **"kheiron"**, **"kheiron1337"** adı altında paylaşılmış hiçbir yapının sizlere getireceği zararlardan, yaratacağı problemlerden sorumlu değilim, hiçbir sorumluluk **kabul etmiyorum**. Projelerimi kendi **özgür iradenizle** indirdiğiniz andan itibaren tüm sorumluluk size aittir._
 
 <!--
 **kheiron1337/kheiron1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
