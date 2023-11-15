@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-_Bu adreste bulunan ve **"kheiron"**, **"kheiron1337"** adı altında paylaşılmış hiçbir yapının sizlere getireceği zararlardan, yaratacağı problemlerden sorumlu değilim, hiçbir sorumluluk **kabul etmiyorum**. Projelerimi kendi **özgür iradenizle** indirdiğiniz andan itibaren tüm sorumluluk size aittir._
+_On this page you can find add-ons for games. These add-ons are performance add-ons that will elevate your gaming experience. None of the software on this page has been produced to harm any company or person.._
 
 <!--
 **kheiron1337/kheiron1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
